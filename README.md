@@ -1,8 +1,6 @@
-## Seed code - Boilerplate
+## Practice Statement: Add ReactJS CDN to a simple HTML
 
-### Instructions
-Refer the PROBLEM.md file for the problem description.
-
-#### To use this as a boilerplate for your assignment, please follow below step.
-
-1. **FORK** this repository in your Gitlab account
+### 1. Make a simple HTML file and add a div with id = "root".
+### 2. Add the ReactJS CDN link in the script tag.
+### 3. Make a small sample component with ReactJS DOM API.
+### 4. Attach the new component to the real DOM.
